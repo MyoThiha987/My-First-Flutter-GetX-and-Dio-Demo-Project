@@ -1,6 +1,6 @@
 My First Flutter Demo Project with Clean Architecture.
   
-  HttpClient - Retrofit and Dio
+  HttpClient - Retrofit 
   StateManagement - GetX
   CacheDatatabase - Hive
 
