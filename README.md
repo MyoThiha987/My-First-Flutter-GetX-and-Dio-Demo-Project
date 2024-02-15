@@ -1,4 +1,4 @@
-My First Flutter Project with Clean Architecture.
+My First Flutter Demo Project with Clean Architecture.
   
   HttpClient - Retrofit and Dio
   StateManagement - GetX
